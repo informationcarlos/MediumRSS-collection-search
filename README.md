@@ -1,7 +1,7 @@
 # MediumRSS-collection-search
 
 The Jewish Museum [online collection](http://thejewishmuseum.org/collection/) has a "related blog" field for collection objects.  
-The Jewish Museum uses [Medium](https://medium.com/@TheJewishMuseum) as it's blogging platform.  
+The Jewish Museum uses [Medium](https://medium.com/@TheJewishMuseum) as its blogging platform.  
 
 I use this script to provide a weekly summary of all hyperlinks to collection objects in Medium posts. 
 
